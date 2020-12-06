@@ -1,0 +1,23 @@
+{
+  "name": "nodej-sql-ltest",
+  "version": "1.0.0",
+  "description": "test for backend on ubuntu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyderies/nodej-sql-ltest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lyderies/nodej-sql-ltest/issues"
+  },
+  "homepage": "https://github.com/Lyderies/nodej-sql-ltest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
