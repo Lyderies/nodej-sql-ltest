@@ -15,4 +15,4 @@ if(!err) {
     console.log("Error connecting database ... \n\n");  
 }
 });
-app.listen(5050);
+app.listen(3232);
